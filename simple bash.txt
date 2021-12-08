@@ -1,0 +1,8 @@
+#!/bin/bash
+: '
+This script for calculates
+sum of 1 and 3.
+'
+((sum=1+3))
+# result will be 
+echo "sum is $sum"
